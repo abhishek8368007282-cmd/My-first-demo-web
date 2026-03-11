@@ -1,8 +1,11 @@
 <html>
 <head>
-
-<h1 align="center"><mark><i>JAI SHREE RAM</i></mark></h1>
-<h2 align="left"><ahref="https://www.youtube.com/watch?v=irqbmMNs2Bo&t=806s"><button>Home</button></a>&emsp;|About&emsp;|&emsp;Contact</h2>
+<h1 align="center"> JAI SHREE RAM</h1>
+<h2 align="left">
+<a href="https://www.youtube.com/watch?v=irqbmMNs2Bo&t=806s">Home</a> &emsp; | &emsp;
+<a href="https://www.youtube.com/watch?v=AG4MHIG1X-w">About</a> &emsp; | &emsp;
+<a href="https://hianime.to/watch/demon-slayer-kimetsu-no-yaiba-47?ep=1290">Contact</a>
+</h2>
 </head>
 <body bgcolor="black" text="white" align="justify">
 <p>
